@@ -1,1 +1,17 @@
+title: wenyuhao
+subtitle: ''
+description: ''
+keywords:
+author: wenyuhao 
+language: en
+timezone: ''
+
+url: https://wenyuhaokikika.github.io
+# root: /public
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+
 theme: jekyll-theme-slate
